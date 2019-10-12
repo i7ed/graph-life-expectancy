@@ -58,3 +58,4 @@ p1 = ggplot(df, aes(x = `2007`, xend = `2017`, y = reorder(country, gap), group 
 p1
 finalise_plot(p1,'Source: CIA, The World Factbook', width_pixels = 600, height_pixels = 800)
 ggsave('images/LifeExpectancyRise-10years.png', width=8, height=6, dpi=150)
+
