@@ -11,6 +11,7 @@
 "Afghanistan",1997,41.763
 "Afghanistan",2002,42.129
 "Afghanistan",2007,43.828
+"Afghanistan",2017,51.7
 "Albania",1952,55.23
 "Albania",1957,59.28
 "Albania",1962,64.82
@@ -23,6 +24,7 @@
 "Albania",1997,72.95
 "Albania",2002,75.651
 "Albania",2007,76.423
+"Albania",2017,78.5
 "Algeria",1952,43.077
 "Algeria",1957,45.685
 "Algeria",1962,48.303
@@ -35,6 +37,7 @@
 "Algeria",1997,69.152
 "Algeria",2002,70.994
 "Algeria",2007,72.301
+"Algeria",2017,77
 "Angola",1952,30.015
 "Angola",1957,31.999
 "Angola",1962,34
@@ -47,6 +50,7 @@
 "Angola",1997,40.963
 "Angola",2002,41.003
 "Angola",2007,42.731
+"Angola",2017,60.2
 "Argentina",1952,62.485
 "Argentina",1957,64.399
 "Argentina",1962,65.142
@@ -59,6 +63,7 @@
 "Argentina",1997,73.275
 "Argentina",2002,74.34
 "Argentina",2007,75.32
+"Argentina",2017,77.3
 "Australia",1952,69.12
 "Australia",1957,70.33
 "Australia",1962,70.93
@@ -71,6 +76,7 @@
 "Australia",1997,78.83
 "Australia",2002,80.37
 "Australia",2007,81.235
+"Australia",2017,82.3
 "Austria",1952,66.8
 "Austria",1957,67.48
 "Austria",1962,69.54
@@ -83,6 +89,7 @@
 "Austria",1997,77.51
 "Austria",2002,78.98
 "Austria",2007,79.829
+"Austria",2017,81.6
 "Bahrain",1952,50.939
 "Bahrain",1957,53.832
 "Bahrain",1962,56.923
@@ -95,6 +102,7 @@
 "Bahrain",1997,73.925
 "Bahrain",2002,74.795
 "Bahrain",2007,75.635
+"Bahrain",2017,79
 "Bangladesh",1952,37.484
 "Bangladesh",1957,39.348
 "Bangladesh",1962,41.216
@@ -107,6 +115,7 @@
 "Bangladesh",1997,59.412
 "Bangladesh",2002,62.013
 "Bangladesh",2007,64.062
+"Bangladesh",2017,73.4
 "Belgium",1952,68
 "Belgium",1957,69.24
 "Belgium",1962,70.25
@@ -119,6 +128,7 @@
 "Belgium",1997,77.53
 "Belgium",2002,78.32
 "Belgium",2007,79.441
+"Belgium",2017,81.1
 "Benin",1952,38.223
 "Benin",1957,40.358
 "Benin",1962,42.618
@@ -131,6 +141,7 @@
 "Benin",1997,54.777
 "Benin",2002,54.406
 "Benin",2007,56.728
+"Benin",2017,62.3
 "Bolivia",1952,40.414
 "Bolivia",1957,41.89
 "Bolivia",1962,43.428
@@ -143,6 +154,7 @@
 "Bolivia",1997,62.05
 "Bolivia",2002,63.883
 "Bolivia",2007,65.554
+"Bolivia",2017,69.5
 "Bosnia and Herzegovina",1952,53.82
 "Bosnia and Herzegovina",1957,58.45
 "Bosnia and Herzegovina",1962,61.93
@@ -155,6 +167,7 @@
 "Bosnia and Herzegovina",1997,73.244
 "Bosnia and Herzegovina",2002,74.09
 "Bosnia and Herzegovina",2007,74.852
+"Bosnia and Herzegovina",2017,76.9
 "Botswana",1952,47.622
 "Botswana",1957,49.618
 "Botswana",1962,51.52
@@ -167,6 +180,7 @@
 "Botswana",1997,52.556
 "Botswana",2002,46.634
 "Botswana",2007,50.728
+"Botswana",2017,63.3
 "Brazil",1952,50.917
 "Brazil",1957,53.285
 "Brazil",1962,55.665
@@ -179,6 +193,7 @@
 "Brazil",1997,69.388
 "Brazil",2002,71.006
 "Brazil",2007,72.39
+"Brazil",2017,74
 "Bulgaria",1952,59.6
 "Bulgaria",1957,66.61
 "Bulgaria",1962,69.51
@@ -191,6 +206,7 @@
 "Bulgaria",1997,70.32
 "Bulgaria",2002,72.14
 "Bulgaria",2007,73.005
+"Bulgaria",2017,74.7
 "Burkina Faso",1952,31.975
 "Burkina Faso",1957,34.906
 "Burkina Faso",1962,37.814
@@ -203,6 +219,7 @@
 "Burkina Faso",1997,50.324
 "Burkina Faso",2002,50.65
 "Burkina Faso",2007,52.295
+"Burkina Faso",2017,55.9
 "Burundi",1952,39.031
 "Burundi",1957,40.533
 "Burundi",1962,42.045
@@ -215,6 +232,7 @@
 "Burundi",1997,45.326
 "Burundi",2002,47.36
 "Burundi",2007,49.58
+"Burundi",2017,60.9
 "Cambodia",1952,39.417
 "Cambodia",1957,41.366
 "Cambodia",1962,43.415
@@ -227,6 +245,7 @@
 "Cambodia",1997,56.534
 "Cambodia",2002,56.752
 "Cambodia",2007,59.723
+"Cambodia",2017,64.9
 "Cameroon",1952,38.523
 "Cameroon",1957,40.428
 "Cameroon",1962,42.643
@@ -239,6 +258,7 @@
 "Cameroon",1997,52.199
 "Cameroon",2002,49.856
 "Cameroon",2007,50.43
+"Cameroon",2017,59
 "Canada",1952,68.75
 "Canada",1957,69.96
 "Canada",1962,71.3
@@ -251,6 +271,7 @@
 "Canada",1997,78.61
 "Canada",2002,79.77
 "Canada",2007,80.653
+"Canada",2017,81.9
 "Central African Republic",1952,35.463
 "Central African Republic",1957,37.464
 "Central African Republic",1962,39.475
@@ -263,6 +284,7 @@
 "Central African Republic",1997,46.066
 "Central African Republic",2002,43.308
 "Central African Republic",2007,44.741
+"Central African Republic",2017,52.8
 "Chad",1952,38.092
 "Chad",1957,39.881
 "Chad",1962,41.716
@@ -275,6 +297,7 @@
 "Chad",1997,51.573
 "Chad",2002,50.525
 "Chad",2007,50.651
+"Chad",2017,50.6
 "Chile",1952,54.745
 "Chile",1957,56.074
 "Chile",1962,57.924
@@ -287,6 +310,7 @@
 "Chile",1997,75.816
 "Chile",2002,77.86
 "Chile",2007,78.553
+"Chile",2017,78.9
 "China",1952,44
 "China",1957,50.54896
 "China",1962,44.50136
@@ -311,6 +335,7 @@
 "Colombia",1997,70.313
 "Colombia",2002,71.682
 "Colombia",2007,72.889
+"Colombia",2017,75.9
 "Comoros",1952,40.715
 "Comoros",1957,42.46
 "Comoros",1962,44.467
@@ -323,6 +348,7 @@
 "Comoros",1997,60.66
 "Comoros",2002,62.974
 "Comoros",2007,65.152
+"Comoros",2017,64.6
 "Congo, Dem. Rep.",1952,39.143
 "Congo, Dem. Rep.",1957,40.652
 "Congo, Dem. Rep.",1962,42.122
@@ -359,6 +385,7 @@
 "Costa Rica",1997,77.26
 "Costa Rica",2002,78.123
 "Costa Rica",2007,78.782
+"Costa Rica",2017,78.7
 "Cote d'Ivoire",1952,40.477
 "Cote d'Ivoire",1957,42.469
 "Cote d'Ivoire",1962,44.93
@@ -383,6 +410,7 @@
 "Croatia",1997,73.68
 "Croatia",2002,74.876
 "Croatia",2007,75.748
+"Croatia",2017,76.1
 "Cuba",1952,59.421
 "Cuba",1957,62.325
 "Cuba",1962,65.246
@@ -395,6 +423,7 @@
 "Cuba",1997,76.151
 "Cuba",2002,77.158
 "Cuba",2007,78.273
+"Cuba",2017,78.8
 "Czech Republic",1952,66.87
 "Czech Republic",1957,69.03
 "Czech Republic",1962,69.9
@@ -407,6 +436,7 @@
 "Czech Republic",1997,74.01
 "Czech Republic",2002,75.51
 "Czech Republic",2007,76.486
+"Czech Republic",2017,78.8
 "Denmark",1952,70.78
 "Denmark",1957,71.81
 "Denmark",1962,72.35
@@ -419,6 +449,7 @@
 "Denmark",1997,76.11
 "Denmark",2002,77.18
 "Denmark",2007,78.332
+"Denmark",2017,79.5
 "Djibouti",1952,34.812
 "Djibouti",1957,37.328
 "Djibouti",1962,39.693
@@ -431,6 +462,7 @@
 "Djibouti",1997,53.157
 "Djibouti",2002,53.373
 "Djibouti",2007,54.791
+"Djibouti",2017,63.6
 "Dominican Republic",1952,45.928
 "Dominican Republic",1957,49.828
 "Dominican Republic",1962,53.459
@@ -443,6 +475,7 @@
 "Dominican Republic",1997,69.957
 "Dominican Republic",2002,70.847
 "Dominican Republic",2007,72.235
+"Dominican Republic",2017,78.3
 "Ecuador",1952,48.357
 "Ecuador",1957,51.356
 "Ecuador",1962,54.64
@@ -455,6 +488,7 @@
 "Ecuador",1997,72.312
 "Ecuador",2002,74.173
 "Ecuador",2007,74.994
+"Ecuador",2017,77
 "Egypt",1952,41.893
 "Egypt",1957,44.444
 "Egypt",1962,46.992
@@ -467,6 +501,7 @@
 "Egypt",1997,67.217
 "Egypt",2002,69.806
 "Egypt",2007,71.338
+"Egypt",2017,73
 "El Salvador",1952,45.262
 "El Salvador",1957,48.57
 "El Salvador",1962,52.307
@@ -479,6 +514,7 @@
 "El Salvador",1997,69.535
 "El Salvador",2002,70.734
 "El Salvador",2007,71.878
+"El Salvador",2017,74.9
 "Equatorial Guinea",1952,34.482
 "Equatorial Guinea",1957,35.983
 "Equatorial Guinea",1962,37.485
@@ -491,6 +527,7 @@
 "Equatorial Guinea",1997,48.245
 "Equatorial Guinea",2002,49.348
 "Equatorial Guinea",2007,51.579
+"Equatorial Guinea",2017,64.6
 "Eritrea",1952,35.928
 "Eritrea",1957,38.047
 "Eritrea",1962,40.158
@@ -503,6 +540,7 @@
 "Eritrea",1997,53.378
 "Eritrea",2002,55.24
 "Eritrea",2007,58.04
+"Eritrea",2017,65.2
 "Ethiopia",1952,34.078
 "Ethiopia",1957,36.667
 "Ethiopia",1962,40.059
@@ -515,6 +553,7 @@
 "Ethiopia",1997,49.402
 "Ethiopia",2002,50.725
 "Ethiopia",2007,52.947
+"Ethiopia",2017,62.6
 "Finland",1952,66.55
 "Finland",1957,67.49
 "Finland",1962,68.75
@@ -527,6 +566,7 @@
 "Finland",1997,77.13
 "Finland",2002,78.37
 "Finland",2007,79.313
+"Finland",2017,81
 "France",1952,67.41
 "France",1957,68.93
 "France",1962,70.51
@@ -551,6 +591,7 @@
 "Gabon",1997,60.461
 "Gabon",2002,56.761
 "Gabon",2007,56.735
+"Gabon",2017,52.1
 "Gambia",1952,30
 "Gambia",1957,32.065
 "Gambia",1962,33.896
@@ -575,6 +616,7 @@
 "Germany",1997,77.34
 "Germany",2002,78.67
 "Germany",2007,79.406
+"Germany",2017,80.8
 "Ghana",1952,43.149
 "Ghana",1957,44.779
 "Ghana",1962,46.452
@@ -587,6 +629,7 @@
 "Ghana",1997,58.556
 "Ghana",2002,58.453
 "Ghana",2007,60.022
+"Ghana",2017,67
 "Greece",1952,65.86
 "Greece",1957,67.86
 "Greece",1962,69.51
@@ -599,6 +642,7 @@
 "Greece",1997,77.869
 "Greece",2002,78.256
 "Greece",2007,79.483
+"Greece",2017,80.7
 "Guatemala",1952,42.023
 "Guatemala",1957,44.142
 "Guatemala",1962,46.954
@@ -611,6 +655,7 @@
 "Guatemala",1997,66.322
 "Guatemala",2002,68.978
 "Guatemala",2007,70.259
+"Guatemala",2017,72.6
 "Guinea",1952,33.609
 "Guinea",1957,34.558
 "Guinea",1962,35.753
@@ -623,6 +668,7 @@
 "Guinea",1997,51.455
 "Guinea",2002,53.676
 "Guinea",2007,56.007
+"Guinea",2017,61
 "Guinea-Bissau",1952,32.5
 "Guinea-Bissau",1957,33.489
 "Guinea-Bissau",1962,34.488
@@ -635,6 +681,7 @@
 "Guinea-Bissau",1997,44.873
 "Guinea-Bissau",2002,45.504
 "Guinea-Bissau",2007,46.388
+"Guinea-Bissau",2017,51
 "Haiti",1952,37.579
 "Haiti",1957,40.696
 "Haiti",1962,43.59
@@ -647,6 +694,7 @@
 "Haiti",1997,56.671
 "Haiti",2002,58.137
 "Haiti",2007,60.916
+"Haiti",2017,64.2
 "Honduras",1952,41.912
 "Honduras",1957,44.665
 "Honduras",1962,48.041
@@ -659,6 +707,7 @@
 "Honduras",1997,67.659
 "Honduras",2002,68.565
 "Honduras",2007,70.198
+"Honduras",2017,71.2
 "Hong Kong, China",1952,60.96
 "Hong Kong, China",1957,64.75
 "Hong Kong, China",1962,67.65
@@ -683,6 +732,7 @@
 "Hungary",1997,71.04
 "Hungary",2002,72.59
 "Hungary",2007,73.338
+"Hungary",2017,76.1
 "Iceland",1952,72.49
 "Iceland",1957,73.47
 "Iceland",1962,73.68
@@ -695,6 +745,7 @@
 "Iceland",1997,78.95
 "Iceland",2002,80.5
 "Iceland",2007,81.757
+"Iceland",2017,83.1
 "India",1952,37.373
 "India",1957,40.249
 "India",1962,43.605
@@ -707,6 +758,7 @@
 "India",1997,61.765
 "India",2002,62.879
 "India",2007,64.698
+"India",2017,68.8
 "Indonesia",1952,37.468
 "Indonesia",1957,39.918
 "Indonesia",1962,42.518
@@ -719,6 +771,7 @@
 "Indonesia",1997,66.041
 "Indonesia",2002,68.588
 "Indonesia",2007,70.65
+"Indonesia",2017,73
 "Iran",1952,44.869
 "Iran",1957,47.181
 "Iran",1962,49.325
@@ -731,6 +784,7 @@
 "Iran",1997,68.042
 "Iran",2002,69.451
 "Iran",2007,70.964
+"Iran",2017,74
 "Iraq",1952,45.32
 "Iraq",1957,48.437
 "Iraq",1962,51.457
@@ -743,6 +797,7 @@
 "Iraq",1997,58.811
 "Iraq",2002,57.046
 "Iraq",2007,59.545
+"Iraq",2017,74.9
 "Ireland",1952,66.91
 "Ireland",1957,68.9
 "Ireland",1962,70.29
@@ -755,6 +810,7 @@
 "Ireland",1997,76.122
 "Ireland",2002,77.783
 "Ireland",2007,78.885
+"Ireland",2017,80.9
 "Israel",1952,65.39
 "Israel",1957,67.84
 "Israel",1962,69.39
@@ -767,6 +823,7 @@
 "Israel",1997,78.269
 "Israel",2002,79.696
 "Israel",2007,80.745
+"Israel",2017,82.5
 "Italy",1952,65.94
 "Italy",1957,67.81
 "Italy",1962,69.24
@@ -779,6 +836,7 @@
 "Italy",1997,78.82
 "Italy",2002,80.24
 "Italy",2007,80.546
+"Italy",2017,82.3
 "Jamaica",1952,58.53
 "Jamaica",1957,62.61
 "Jamaica",1962,65.61
@@ -791,6 +849,7 @@
 "Jamaica",1997,72.262
 "Jamaica",2002,72.047
 "Jamaica",2007,72.567
+"Jamaica",2017,73.7
 "Japan",1952,63.03
 "Japan",1957,65.5
 "Japan",1962,68.73
@@ -803,6 +862,7 @@
 "Japan",1997,80.69
 "Japan",2002,82
 "Japan",2007,82.603
+"Japan",2017,85.3
 "Jordan",1952,43.158
 "Jordan",1957,45.669
 "Jordan",1962,48.126
@@ -815,6 +875,7 @@
 "Jordan",1997,69.772
 "Jordan",2002,71.263
 "Jordan",2007,72.535
+"Jordan",2017,74.8
 "Kenya",1952,42.27
 "Kenya",1957,44.686
 "Kenya",1962,47.949
@@ -827,6 +888,7 @@
 "Kenya",1997,54.407
 "Kenya",2002,50.992
 "Kenya",2007,54.11
+"Kenya",2017,64.3
 "Korea, Dem. Rep.",1952,50.056
 "Korea, Dem. Rep.",1957,54.081
 "Korea, Dem. Rep.",1962,56.656
@@ -863,6 +925,7 @@
 "Kuwait",1997,76.156
 "Kuwait",2002,76.904
 "Kuwait",2007,77.588
+"Kuwait",2017,78.2
 "Lebanon",1952,55.928
 "Lebanon",1957,59.489
 "Lebanon",1962,62.094
@@ -875,6 +938,7 @@
 "Lebanon",1997,70.265
 "Lebanon",2002,71.028
 "Lebanon",2007,71.993
+"Lebanon",2017,77.8
 "Lesotho",1952,42.138
 "Lesotho",1957,45.047
 "Lesotho",1962,47.747
@@ -887,6 +951,7 @@
 "Lesotho",1997,55.558
 "Lesotho",2002,44.593
 "Lesotho",2007,42.592
+"Lesotho",2017,53
 "Liberia",1952,38.48
 "Liberia",1957,39.486
 "Liberia",1962,40.502
@@ -899,6 +964,7 @@
 "Liberia",1997,42.221
 "Liberia",2002,43.753
 "Liberia",2007,45.678
+"Liberia",2017,63.3
 "Libya",1952,42.723
 "Libya",1957,45.289
 "Libya",1962,47.808
@@ -911,6 +977,7 @@
 "Libya",1997,71.555
 "Libya",2002,72.737
 "Libya",2007,73.952
+"Libya",2017,76.7
 "Madagascar",1952,36.681
 "Madagascar",1957,38.865
 "Madagascar",1962,40.848
@@ -923,6 +990,7 @@
 "Madagascar",1997,54.978
 "Madagascar",2002,57.286
 "Madagascar",2007,59.443
+"Madagascar",2017,66.3
 "Malawi",1952,36.256
 "Malawi",1957,37.207
 "Malawi",1962,38.41
@@ -935,6 +1003,7 @@
 "Malawi",1997,47.495
 "Malawi",2002,45.009
 "Malawi",2007,48.303
+"Malawi",2017,61.7
 "Malaysia",1952,48.463
 "Malaysia",1957,52.102
 "Malaysia",1962,55.737
@@ -947,6 +1016,7 @@
 "Malaysia",1997,71.938
 "Malaysia",2002,73.044
 "Malaysia",2007,74.241
+"Malaysia",2017,75.2
 "Mali",1952,33.685
 "Mali",1957,35.307
 "Mali",1962,36.936
@@ -959,6 +1029,7 @@
 "Mali",1997,49.903
 "Mali",2002,51.818
 "Mali",2007,54.467
+"Mali",2017,60.3
 "Mauritania",1952,40.543
 "Mauritania",1957,42.338
 "Mauritania",1962,44.248
@@ -971,6 +1042,7 @@
 "Mauritania",1997,60.43
 "Mauritania",2002,62.247
 "Mauritania",2007,64.164
+"Mauritania",2017,63.4
 "Mauritius",1952,50.986
 "Mauritius",1957,58.089
 "Mauritius",1962,60.246
@@ -983,6 +1055,7 @@
 "Mauritius",1997,70.736
 "Mauritius",2002,71.954
 "Mauritius",2007,72.801
+"Mauritius",2017,75.8
 "Mexico",1952,50.789
 "Mexico",1957,55.19
 "Mexico",1962,58.299
@@ -995,6 +1068,7 @@
 "Mexico",1997,73.67
 "Mexico",2002,74.902
 "Mexico",2007,76.195
+"Mexico",2017,76.1
 "Mongolia",1952,42.244
 "Mongolia",1957,45.248
 "Mongolia",1962,48.251
@@ -1007,6 +1081,7 @@
 "Mongolia",1997,63.625
 "Mongolia",2002,65.033
 "Mongolia",2007,66.803
+"Mongolia",2017,69.9
 "Montenegro",1952,59.164
 "Montenegro",1957,61.448
 "Montenegro",1962,63.728
@@ -1031,6 +1106,7 @@
 "Morocco",1997,67.66
 "Morocco",2002,69.615
 "Morocco",2007,71.164
+"Morocco",2017,77.1
 "Mozambique",1952,31.286
 "Mozambique",1957,33.779
 "Mozambique",1962,36.161
@@ -1043,6 +1119,7 @@
 "Mozambique",1997,46.344
 "Mozambique",2002,44.026
 "Mozambique",2007,42.082
+"Mozambique",2017,53.7
 "Myanmar",1952,36.319
 "Myanmar",1957,41.905
 "Myanmar",1962,45.108
@@ -1067,6 +1144,7 @@
 "Namibia",1997,58.909
 "Namibia",2002,51.479
 "Namibia",2007,52.906
+"Namibia",2017,64
 "Nepal",1952,36.157
 "Nepal",1957,37.686
 "Nepal",1962,39.393
@@ -1079,6 +1157,7 @@
 "Nepal",1997,59.426
 "Nepal",2002,61.34
 "Nepal",2007,63.785
+"Nepal",2017,71
 "Netherlands",1952,72.13
 "Netherlands",1957,72.99
 "Netherlands",1962,73.23
@@ -1091,6 +1170,7 @@
 "Netherlands",1997,78.03
 "Netherlands",2002,78.53
 "Netherlands",2007,79.762
+"Netherlands",2017,81.4
 "New Zealand",1952,69.39
 "New Zealand",1957,70.26
 "New Zealand",1962,71.24
@@ -1103,6 +1183,7 @@
 "New Zealand",1997,77.55
 "New Zealand",2002,79.11
 "New Zealand",2007,80.204
+"New Zealand",2017,81.3
 "Nicaragua",1952,42.314
 "Nicaragua",1957,45.432
 "Nicaragua",1962,48.632
@@ -1115,6 +1196,7 @@
 "Nicaragua",1997,68.426
 "Nicaragua",2002,70.836
 "Nicaragua",2007,72.899
+"Nicaragua",2017,73.4
 "Niger",1952,37.444
 "Niger",1957,38.598
 "Niger",1962,39.487
@@ -1127,6 +1209,7 @@
 "Niger",1997,51.313
 "Niger",2002,54.496
 "Niger",2007,56.867
+"Niger",2017,55.9
 "Nigeria",1952,36.324
 "Nigeria",1957,37.802
 "Nigeria",1962,39.36
@@ -1139,6 +1222,7 @@
 "Nigeria",1997,47.464
 "Nigeria",2002,46.608
 "Nigeria",2007,46.859
+"Nigeria",2017,53.8
 "Norway",1952,72.67
 "Norway",1957,73.44
 "Norway",1962,73.47
@@ -1151,6 +1235,7 @@
 "Norway",1997,78.32
 "Norway",2002,79.05
 "Norway",2007,80.196
+"Norway",2017,81.9
 "Oman",1952,37.578
 "Oman",1957,40.08
 "Oman",1962,43.165
@@ -1163,6 +1248,7 @@
 "Oman",1997,72.499
 "Oman",2002,74.193
 "Oman",2007,75.64
+"Oman",2017,75.7
 "Pakistan",1952,43.436
 "Pakistan",1957,45.557
 "Pakistan",1962,47.67
@@ -1175,6 +1261,7 @@
 "Pakistan",1997,61.818
 "Pakistan",2002,63.61
 "Pakistan",2007,65.483
+"Pakistan",2017,68.1
 "Panama",1952,55.191
 "Panama",1957,59.201
 "Panama",1962,61.817
@@ -1187,6 +1274,7 @@
 "Panama",1997,73.738
 "Panama",2002,74.712
 "Panama",2007,75.537
+"Panama",2017,78.8
 "Paraguay",1952,62.649
 "Paraguay",1957,63.196
 "Paraguay",1962,64.361
@@ -1199,6 +1287,7 @@
 "Paraguay",1997,69.4
 "Paraguay",2002,70.755
 "Paraguay",2007,71.752
+"Paraguay",2017,77.4
 "Peru",1952,43.902
 "Peru",1957,46.263
 "Peru",1962,49.096
@@ -1211,6 +1300,7 @@
 "Peru",1997,68.386
 "Peru",2002,69.906
 "Peru",2007,71.421
+"Peru",2017,74
 "Philippines",1952,47.752
 "Philippines",1957,51.334
 "Philippines",1962,54.757
@@ -1223,6 +1313,7 @@
 "Philippines",1997,68.564
 "Philippines",2002,70.303
 "Philippines",2007,71.688
+"Philippines",2017,69.4
 "Poland",1952,61.31
 "Poland",1957,65.77
 "Poland",1962,67.64
@@ -1235,6 +1326,7 @@
 "Poland",1997,72.75
 "Poland",2002,74.67
 "Poland",2007,75.563
+"Poland",2017,77.8
 "Portugal",1952,59.82
 "Portugal",1957,61.51
 "Portugal",1962,64.39
@@ -1247,6 +1339,7 @@
 "Portugal",1997,75.97
 "Portugal",2002,77.29
 "Portugal",2007,78.098
+"Portugal",2017,79.4
 "Puerto Rico",1952,64.28
 "Puerto Rico",1957,68.54
 "Puerto Rico",1962,69.62
@@ -1259,6 +1352,7 @@
 "Puerto Rico",1997,74.917
 "Puerto Rico",2002,77.778
 "Puerto Rico",2007,78.746
+"Puerto Rico",2017,80.9
 "Reunion",1952,52.724
 "Reunion",1957,55.09
 "Reunion",1962,57.666
@@ -1283,6 +1377,7 @@
 "Romania",1997,69.72
 "Romania",2002,71.322
 "Romania",2007,72.476
+"Romania",2017,75.4
 "Rwanda",1952,40
 "Rwanda",1957,41.5
 "Rwanda",1962,43
@@ -1295,6 +1390,7 @@
 "Rwanda",1997,36.087
 "Rwanda",2002,43.413
 "Rwanda",2007,46.242
+"Rwanda",2017,64.3
 "Sao Tome and Principe",1952,46.471
 "Sao Tome and Principe",1957,48.945
 "Sao Tome and Principe",1962,51.893
@@ -1319,6 +1415,7 @@
 "Saudi Arabia",1997,70.533
 "Saudi Arabia",2002,71.626
 "Saudi Arabia",2007,72.777
+"Saudi Arabia",2017,75.5
 "Senegal",1952,37.278
 "Senegal",1957,39.329
 "Senegal",1962,41.454
@@ -1331,6 +1428,7 @@
 "Senegal",1997,60.187
 "Senegal",2002,61.6
 "Senegal",2007,63.062
+"Senegal",2017,62.1
 "Serbia",1952,57.996
 "Serbia",1957,61.685
 "Serbia",1962,64.531
@@ -1343,6 +1441,7 @@
 "Serbia",1997,72.232
 "Serbia",2002,73.213
 "Serbia",2007,74.002
+"Serbia",2017,75.7
 "Sierra Leone",1952,30.331
 "Sierra Leone",1957,31.57
 "Sierra Leone",1962,32.767
@@ -1355,6 +1454,7 @@
 "Sierra Leone",1997,39.897
 "Sierra Leone",2002,41.012
 "Sierra Leone",2007,42.568
+"Sierra Leone",2017,58.6
 "Singapore",1952,60.396
 "Singapore",1957,63.179
 "Singapore",1962,65.798
@@ -1367,6 +1467,7 @@
 "Singapore",1997,77.158
 "Singapore",2002,78.77
 "Singapore",2007,79.972
+"Singapore",2017,85.2
 "Slovak Republic",1952,64.36
 "Slovak Republic",1957,67.45
 "Slovak Republic",1962,70.33
@@ -1391,6 +1492,7 @@
 "Slovenia",1997,75.13
 "Slovenia",2002,76.66
 "Slovenia",2007,77.926
+"Slovenia",2017,78.3
 "Somalia",1952,32.978
 "Somalia",1957,34.977
 "Somalia",1962,36.981
@@ -1403,6 +1505,7 @@
 "Somalia",1997,43.795
 "Somalia",2002,45.936
 "Somalia",2007,48.159
+"Somalia",2017,52.8
 "South Africa",1952,45.009
 "South Africa",1957,47.985
 "South Africa",1962,49.951
@@ -1415,6 +1518,7 @@
 "South Africa",1997,60.236
 "South Africa",2002,53.365
 "South Africa",2007,49.339
+"South Africa",2017,63.8
 "Spain",1952,64.94
 "Spain",1957,66.66
 "Spain",1962,69.69
@@ -1427,6 +1531,7 @@
 "Spain",1997,78.77
 "Spain",2002,79.78
 "Spain",2007,80.941
+"Spain",2017,81.8
 "Sri Lanka",1952,57.593
 "Sri Lanka",1957,61.456
 "Sri Lanka",1962,62.192
@@ -1439,6 +1544,7 @@
 "Sri Lanka",1997,70.457
 "Sri Lanka",2002,70.815
 "Sri Lanka",2007,72.396
+"Sri Lanka",2017,76.9
 "Sudan",1952,38.635
 "Sudan",1957,39.624
 "Sudan",1962,40.87
@@ -1451,6 +1557,7 @@
 "Sudan",1997,55.373
 "Sudan",2002,56.369
 "Sudan",2007,58.556
+"Sudan",2017,64.4
 "Swaziland",1952,41.407
 "Swaziland",1957,43.424
 "Swaziland",1962,44.992
@@ -1475,6 +1582,7 @@
 "Sweden",1997,79.39
 "Sweden",2002,80.04
 "Sweden",2007,80.884
+"Sweden",2017,82.1
 "Switzerland",1952,69.62
 "Switzerland",1957,70.56
 "Switzerland",1962,71.32
@@ -1487,6 +1595,7 @@
 "Switzerland",1997,79.37
 "Switzerland",2002,80.62
 "Switzerland",2007,81.701
+"Switzerland",2017,82.6
 "Syria",1952,45.883
 "Syria",1957,48.284
 "Syria",1962,50.305
@@ -1499,6 +1608,7 @@
 "Syria",1997,71.527
 "Syria",2002,73.053
 "Syria",2007,74.143
+"Syria",2017,75.1
 "Taiwan",1952,58.5
 "Taiwan",1957,62.4
 "Taiwan",1962,65.2
@@ -1511,6 +1621,7 @@
 "Taiwan",1997,75.25
 "Taiwan",2002,76.99
 "Taiwan",2007,78.4
+"Taiwan",2017,80.2
 "Tanzania",1952,41.215
 "Tanzania",1957,42.974
 "Tanzania",1962,44.246
@@ -1523,6 +1634,7 @@
 "Tanzania",1997,48.466
 "Tanzania",2002,49.651
 "Tanzania",2007,52.517
+"Tanzania",2017,62.6
 "Thailand",1952,50.848
 "Thailand",1957,53.63
 "Thailand",1962,56.061
@@ -1535,6 +1647,7 @@
 "Thailand",1997,67.521
 "Thailand",2002,68.564
 "Thailand",2007,70.616
+"Thailand",2017,74.9
 "Togo",1952,38.596
 "Togo",1957,41.208
 "Togo",1962,43.922
@@ -1547,6 +1660,7 @@
 "Togo",1997,58.39
 "Togo",2002,57.561
 "Togo",2007,58.42
+"Togo",2017,65.4
 "Trinidad and Tobago",1952,59.1
 "Trinidad and Tobago",1957,61.8
 "Trinidad and Tobago",1962,64.9
@@ -1559,6 +1673,7 @@
 "Trinidad and Tobago",1997,69.465
 "Trinidad and Tobago",2002,68.976
 "Trinidad and Tobago",2007,69.819
+"Trinidad and Tobago",2017,73.1
 "Tunisia",1952,44.6
 "Tunisia",1957,47.1
 "Tunisia",1962,49.579
@@ -1571,6 +1686,7 @@
 "Tunisia",1997,71.973
 "Tunisia",2002,73.042
 "Tunisia",2007,73.923
+"Tunisia",2017,75.7
 "Turkey",1952,43.585
 "Turkey",1957,48.079
 "Turkey",1962,52.098
@@ -1583,6 +1699,7 @@
 "Turkey",1997,68.835
 "Turkey",2002,70.845
 "Turkey",2007,71.777
+"Turkey",2017,75
 "Uganda",1952,39.978
 "Uganda",1957,42.571
 "Uganda",1962,45.344
@@ -1595,6 +1712,7 @@
 "Uganda",1997,44.578
 "Uganda",2002,47.813
 "Uganda",2007,51.542
+"Uganda",2017,55.9
 "United Kingdom",1952,69.18
 "United Kingdom",1957,70.42
 "United Kingdom",1962,70.76
@@ -1607,6 +1725,7 @@
 "United Kingdom",1997,77.218
 "United Kingdom",2002,78.471
 "United Kingdom",2007,79.425
+"United Kingdom",2017,80.8
 "United States",1952,68.44
 "United States",1957,69.49
 "United States",1962,70.21
@@ -1619,6 +1738,7 @@
 "United States",1997,76.81
 "United States",2002,77.31
 "United States",2007,78.242
+"United States",2017,80
 "Uruguay",1952,66.071
 "Uruguay",1957,67.044
 "Uruguay",1962,68.253
@@ -1631,6 +1751,7 @@
 "Uruguay",1997,74.223
 "Uruguay",2002,75.307
 "Uruguay",2007,76.384
+"Uruguay",2017,77.4
 "Venezuela",1952,55.088
 "Venezuela",1957,57.907
 "Venezuela",1962,60.77
@@ -1643,6 +1764,7 @@
 "Venezuela",1997,72.146
 "Venezuela",2002,72.766
 "Venezuela",2007,73.747
+"Venezuela",2017,76
 "Vietnam",1952,40.412
 "Vietnam",1957,42.887
 "Vietnam",1962,45.363
@@ -1655,6 +1777,7 @@
 "Vietnam",1997,70.672
 "Vietnam",2002,73.017
 "Vietnam",2007,74.249
+"Vietnam",2017,73.7
 "West Bank and Gaza",1952,43.16
 "West Bank and Gaza",1957,45.671
 "West Bank and Gaza",1962,48.127
@@ -1691,6 +1814,7 @@
 "Zambia",1997,40.238
 "Zambia",2002,39.193
 "Zambia",2007,42.384
+"Zambia",2017,52.7
 "Zimbabwe",1952,48.451
 "Zimbabwe",1957,50.469
 "Zimbabwe",1962,52.358
@@ -1703,227 +1827,103 @@
 "Zimbabwe",1997,46.809
 "Zimbabwe",2002,39.989
 "Zimbabwe",2007,43.487
+"Zimbabwe",2017,60.4
 "Monaco",2017,89.4
-"Japan",2017,85.3
-"Singapore",2017,85.2
 "Macau",2017,84.6
 "San Marino",2017,83.3
-"Iceland",2017,83.1
 "Hong Kong",2017,83
 "Andorra",2017,82.9
 "Guernsey",2017,82.6
-"Switzerland",2017,82.6
-"Israel",2017,82.5
-"Korea, Rep.",2017,82.5
+"South Korea",2017,82.5
 "Luxembourg",2017,82.3
-"Australia",2017,82.3
-"Italy",2017,82.3
-"Sweden",2017,82.1
-"Canada",2017,81.9
 "Jersey",2017,81.9
 "Liechtenstein",2017,81.9
-"France",2017,81.9
-"Norway",2017,81.9
-"Spain",2017,81.8
-"Austria",2017,81.6
+"France (metropolitan)",2017,81.9
 "Anguilla",2017,81.5
 "Bermuda",2017,81.4
-"Netherlands",2017,81.4
 "Cayman Islands",2017,81.3
 "Isle of Man",2017,81.3
-"New Zealand",2017,81.3
-"Belgium",2017,81.1
-"Finland",2017,81
-"Ireland",2017,80.9
-"Puerto Rico",2017,80.9
-"Germany",2017,80.8
-"United Kingdom",2017,80.8
-"Greece",2017,80.7
 "Saint Pierre and Miquelon",2017,80.6
 "Faroe Islands",2017,80.5
 "Malta",2017,80.5
 "European Union",2017,80.2
-"Taiwan",2017,80.2
 "Turks and Caicos Islands",2017,80
-"United States",2017,80
 "Wallis and Futuna",2017,79.8
 "Saint Helena, Ascension and Tristan da Cunha",2017,79.6
 "Gibraltar",2017,79.6
-"Denmark",2017,79.5
-"Portugal",2017,79.4
 "U.S. Virgin Islands",2017,79.4
-"Bahrain",2017,79
-"Chile",2017,78.9
-"Cuba",2017,78.8
 "Cyprus",2017,78.8
 "Qatar",2017,78.8
 "British Virgin Islands",2017,78.8
-"Panama",2017,78.8
-"Czech Republic",2017,78.8
-"Costa Rica",2017,78.7
-"Albania",2017,78.5
 "Curacao",2017,78.5
-"Slovenia",2017,78.3
-"Dominican Republic",2017,78.3
 "Sint Maarten ( Netherlands)",2017,78.3
-"Kuwait",2017,78.2
 "New Caledonia ( France)",2017,77.9
 "Saint Lucia",2017,77.9
-"Lebanon",2017,77.8
-"Poland",2017,77.8
 "United Arab Emirates",2017,77.7
 "French Polynesia ( France)",2017,77.4
-"Paraguay",2017,77.4
-"Uruguay",2017,77.4
 "Brunei",2017,77.3
-"Argentina",2017,77.3
-"Slovak Republic",2017,77.3
+"Slovakia",2017,77.3
 "Dominica",2017,77.2
-"Morocco",2017,77.1
-"Algeria",2017,77
-"Ecuador",2017,77
 "Aruba ( Netherlands)",2017,76.9
-"Sri Lanka",2017,76.9
-"Bosnia and Herzegovina",2017,76.9
 "Estonia",2017,76.9
-"China",2017,76.7
+"PeoplesRepublicofChina",2017,76.7
 "Antigua and Barbuda",2017,76.7
-"Libya",2017,76.7
 "Georgia",2017,76.4
 "Republic of Macedonia",2017,76.4
 "Tonga",2017,76.4
-"Croatia",2017,76.1
-"Hungary",2017,76.1
-"Mexico",2017,76.1
-"Venezuela",2017,76
 "Cook Islands",2017,76
 "Guam ( US)",2017,76
-"Colombia",2017,75.9
 "Saint Kitts and Nevis",2017,75.9
 "Maldives",2017,75.8
-"Mauritius",2017,75.8
-"Oman",2017,75.7
-"Serbia",2017,75.7
-"Tunisia",2017,75.7
 "Solomon Islands",2017,75.6
 "Saint Vincent and the Grenadines",2017,73.5
 "Barbados",2017,75.5
-"Saudi Arabia",2017,75.5
 "Northern Mariana Islands ( US)",2017,75.4
-"Romania",2017,75.4
-"Malaysia",2017,75.2
-"West Bank and Gaza",2017,75.2
-"Syria",2017,75.1
+"West Bank",2017,75.2
 "Lithuania",2017,75
-"Turkey",2017,75
-"Iraq",2017,74.9
-"El Salvador",2017,74.9
 "Seychelles",2017,74.9
-"Thailand",2017,74.9
 "Armenia",2017,74.9
-"Jordan",2017,74.8
-"Bulgaria",2017,74.7
 "Latvia",2017,74.7
 "Montserrat",2017,74.6
 "Grenada",2017,74.5
 "Gaza Strip",2017,74.2
 "Samoa",2017,74
-"Brazil",2017,74
 "Uzbekistan",2017,74
-"Peru",2017,74
-"Iran",2017,74
-"Jamaica",2017,73.7
 "Vanuatu",2017,73.7
-"Vietnam",2017,73.7
-"Bangladesh",2017,73.4
-"Nicaragua",2017,73.4
 "American Samoa ( US)",2017,73.4
 "Marshall Islands",2017,73.4
 "Palau",2017,73.4
 "Federated States of Micronesia",2017,73.1
-"Trinidad and Tobago",2017,73.1
 "Belarus",2017,73
-"Egypt",2017,73
 "Fiji",2017,73
-"Indonesia",2017,73
 "Azerbaijan",2017,72.8
 "Greenland ( Denmark)",2017,72.6
 "The Bahamas",2017,72.6
-"Guatemala",2017,72.6
 "Suriname",2017,72.5
 "Cabo Verde",2017,72.4
 "Ukraine",2017,72.1
-"Honduras",2017,71.2
 "Kazakhstan",2017,71.1
 "Moldova",2017,71
-"Nepal",2017,71
 "Russia",2017,71
 "Kyrgyzstan",2017,70.9
-"Korea, Dem. Rep.",2017,70.7
+"North Korea",2017,70.7
 "Bhutan",2017,70.6
 "Turkmenistan",2017,70.4
-"Mongolia",2017,69.9
-"Bolivia",2017,69.5
-"Philippines",2017,69.4
 "Belize",2017,68.9
-"India",2017,68.8
 "Guyana",2017,68.6
 "Timor-Leste",2017,68.4
-"Myanmar",2017,68.2
-"Pakistan",2017,68.1
+"Burma",2017,68.2
 "Tajikistan",2017,68.1
 "Nauru",2017,67.4
 "Papua New Guinea",2017,67.3
-"Ghana",2017,67
 "Tuvalu",2017,66.9
 "Kiribati",2017,66.5
-"Madagascar",2017,66.3
-"Yemen, Rep.",2017,65.9
-"Togo",2017,65.4
-"Sao Tome and Principe",2017,65.3
-"Eritrea",2017,65.2
+"Yemen",2017,65.9
+"São Tomé and Príncipe",2017,65.3
 "The Gambia",2017,65.1
-"Cambodia",2017,64.9
 "Laos",2017,64.6
-"Comoros",2017,64.6
-"Equatorial Guinea",2017,64.6
-"Sudan",2017,64.4
-"Kenya",2017,64.3
-"Rwanda",2017,64.3
-"Haiti",2017,64.2
-"Namibia",2017,64
-"South Africa",2017,63.8
-"Djibouti",2017,63.6
 "Sahrawi Arab Democratic Republic",2017,63.4
-"Mauritania",2017,63.4
-"Botswana",2017,63.3
-"Liberia",2017,63.3
-"Ethiopia",2017,62.6
-"Tanzania",2017,62.6
-"Benin",2017,62.3
-"Senegal",2017,62.1
-"Malawi",2017,61.7
-"Guinea",2017,61
-"Burundi",2017,60.9
-"Zimbabwe",2017,60.4
-"Mali",2017,60.3
-"Angola",2017,60.2
-"Congo, Rep.",2017,59.8
-"Cote d'Ivoire",2017,59
-"Cameroon",2017,59
-"Sierra Leone",2017,58.6
-"Congo, Dem. Rep.",2017,57.7
-"Burkina Faso",2017,55.9
-"Niger",2017,55.9
-"Uganda",2017,55.9
-"Nigeria",2017,53.8
-"Mozambique",2017,53.7
-"Lesotho",2017,53
-"Somalia",2017,52.8
-"Central African Republic",2017,52.8
-"Zambia",2017,52.7
-"Gabon",2017,52.1
-"Swaziland",2017,52.1
-"Afghanistan",2017,51.7
-"Guinea-Bissau",2017,51
-"Chad",2017,50.6
+"Republic of the Congo",2017,59.8
+"Cote dIvoire",2017,59
+"Democratic Republic of the Congo",2017,57.7
+"Eswatini (Swaziland)",2017,52.1

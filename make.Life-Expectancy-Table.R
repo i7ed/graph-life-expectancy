@@ -262,4 +262,6 @@ d$country = mapvalues(d$country,
         "West Bank and Gaza"))
 
 d.lifeExp = rbind(d1,d2)
+d.lifeExp = d.lifeExp[order(d.lifeExp$country),]
+
 write.csv(d.lifeExp, file = 'data/LifeExpectancy.csv',row.names = FALSE)
